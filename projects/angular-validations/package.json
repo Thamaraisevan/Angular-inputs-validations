@@ -1,0 +1,31 @@
+{
+  "name": "angular-validations-services",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.0.9",
+    "@angular/core": "^11.0.9"
+  },
+  
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "keywords": [
+    "angular",
+    "validation",
+    "angular-validation",
+    "validation",
+    "typescript",
+    "service",
+    "validator",
+    "dynamic",
+    "client-side",
+    "input",
+    "form",
+    "reactive-forms",
+    "directive",
+    "angular-directive",
+    "@angular/forms",
+    "@angular/core",
+    "angular/forms"
+  ]
+}
